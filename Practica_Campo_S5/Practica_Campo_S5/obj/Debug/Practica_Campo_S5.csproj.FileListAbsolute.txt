@@ -1,0 +1,8 @@
+D:\WS_FA_UPN\Practica_Campo_S5\Practica_Campo_S5\bin\Debug\Practica_Campo_S5.exe.config
+D:\WS_FA_UPN\Practica_Campo_S5\Practica_Campo_S5\bin\Debug\Practica_Campo_S5.exe
+D:\WS_FA_UPN\Practica_Campo_S5\Practica_Campo_S5\bin\Debug\Practica_Campo_S5.pdb
+D:\WS_FA_UPN\Practica_Campo_S5\Practica_Campo_S5\obj\Debug\Practica_Campo_S5.csproj.AssemblyReference.cache
+D:\WS_FA_UPN\Practica_Campo_S5\Practica_Campo_S5\obj\Debug\Practica_Campo_S5.csproj.CoreCompileInputs.cache
+D:\WS_FA_UPN\Practica_Campo_S5\Practica_Campo_S5\obj\Debug\Practica_Campo_S5.exe
+D:\WS_FA_UPN\Practica_Campo_S5\Practica_Campo_S5\obj\Debug\Practica_Campo_S5.pdb
+D:\WS_FA_UPN\Practica_Campo_S5\Practica_Campo_S5\obj\Debug\Practica_Campo_S5.exe.config
