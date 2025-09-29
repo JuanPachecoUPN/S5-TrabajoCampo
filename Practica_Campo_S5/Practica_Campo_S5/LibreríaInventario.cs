@@ -18,9 +18,9 @@ namespace Practica_Campo_S5
         // Lista de productos (inventario)
         public static List<Producto> inventario = new List<Producto>();
 
-       
+
         // FUNCIONES VOID
-       
+
         public static void MostrarProductos()
         {
             Console.Clear();
@@ -40,9 +40,9 @@ namespace Practica_Campo_S5
             Console.ReadKey();
         }
 
-      
+
         // FUNCIONES CON RETURN
-     
+
         public static Producto BuscarProducto(string codigo)
         {
             foreach (var p in inventario)
@@ -63,18 +63,18 @@ namespace Practica_Campo_S5
             return p.Stock >= cantidad;
         }
 
-       
+
         // FUNCIONES CON PARAMETRO POR REFERENCIA
-      
+
         public static void ActualizarStock(ref Producto p, int nuevoStock)
         {
             p.Stock = nuevoStock;
             Console.WriteLine($"Stock actualizado. Nuevo stock: {p.Stock}");
         }
 
-       
+
         // AGREGAR Y ELIMINAR PRODUCTOS
-     
+
         public static void AgregarProducto(string codigo, string nombre, int stock)
         {
             if (inventario.Count >= 10)
@@ -107,4 +107,5 @@ namespace Practica_Campo_S5
                 Console.WriteLine("Producto no encontrado.");
             }
         }
+    }
 }
